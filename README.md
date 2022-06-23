@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is Lex and I'm developer, community builder and youtube-blogger 
 
-- 🛠 10 years of development
+- 🛠 10 years of backend-development
 - 🔭 Currently working on AnywhereClub (https://aw.club) as a Community Lead 
 - 💬 Ask me about .NET & YouTube
 - 📫 How to reach me: https://itbeard.com/contacts
