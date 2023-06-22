@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Lex and I'm developer, community builder and youtube-blogger 
+My name is Lex and I'm developer, community builder and YouTube blogger 
 
 - 🛠 11 years of backend-development
 - 🔭 Currently working on [Anywhere Club](https://aw.club) as a Community Builder
