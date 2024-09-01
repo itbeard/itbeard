@@ -1,10 +1,14 @@
 ### Hi there 👋 
-My name is Lex and I'm developer, community builder and YouTube blogger 
+I’m Lex — a Software Engineer, Community Builder, and YouTube Blogger.
 
-- 🛠 11 years of backend-development
-- 🔭 Currently working on [Anywhere Club](https://aw.club) as a Community Builder
-- 💬 Ask me about .NET, YouTube, DevRel & Community Building
-- 📫 How to reach me: https://itbeard.com/contacts
+- 🛠 Software Engineer since 2011
+- 🎥 Blogger since 2018
+- 🤖 AI Enthusiast since 2021
+- 🔭 Currently working on:
+   - [Anywhere Club](https://aw.club) as a **Community Lead**
+   - [Code Evolution 🧬](https://itbeard.com/evocoders) as an **AI Developer Advocate**
+- 💬 Ask me anything about _Programming_, _Video Content Creation_, _AI_, and _Community Management_
+- 📫 Reach out to me here: https://itbeard.com/contacts
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itbeard&hide=html&layout=compact)](https://github.com/itbeard)
 <br/><br/>
