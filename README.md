@@ -2,11 +2,11 @@
 I’m Lex — a Software Engineer, AI Consultant, Community Builder, and Tech Blogger.
 
 - 🛠 Software Engineer since 2011
-- 🎥 Blogger since 2018
+- 🎥 Contetn Creator since 2018
 - 🤖 AI Enthusiast since 2021
 - 🔭 Currently working on:
    - [Code Evolution 🧬](https://itbeard.com/evocoders) as an **Creator & AI Developer Advocate**
-   - [EngX Space](https://engx.space) as a **Multimedia & Community Consultant**
+   - [Podcast On Vibe](https://onvibe.io) as a **Podcaster & Tech Geek**
    - **AI Adoption Consultant for Development Teams**
 - 💬 Ask me anything about _Programming_, _Video Content Creation_, _AI_, and _Community Management_
 - 📫 Reach out to me here: https://itbeard.com/contacts
