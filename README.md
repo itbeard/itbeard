@@ -8,6 +8,7 @@ I’m Lex — a Software Engineer, AI Consultant, Community Builder, and Tech Bl
    - [Code Evolution 🧬](https://itbeard.com/evocoders) as an **Creator & AI Developer Advocate**
    - [Podcast On Vibe](https://onvibe.io) as a **Podcaster & Tech Geek**
    - **AI Adoption Consultant for Development Teams**
+   - **Developer Conversations Master** at [Junie](https://junie.jetbrains.com)
 - 💬 Ask me anything about _Programming_, _Video Content Creation_, _AI_, and _Community Management_
 - 📫 Reach out to me here: https://itbeard.com/contacts
 
